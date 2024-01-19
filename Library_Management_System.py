@@ -1,4 +1,3 @@
-# NAME: MUHAMMAD ARQUM, ROLL NO: 21725, EMAIL: marqum2003@gmail.com
 class Library:
     def __init__(self, books):
         self.available_books = books
